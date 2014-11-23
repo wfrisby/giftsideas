@@ -1,9 +1,9 @@
 # Movies
 - [Guardians of the Galaxy](http://www.amazon.com/Guardians-Galaxy-3D-Blu-ray-DVD/dp/B00N1JQ2UO/)
-- The Amazing Spider Man #2
-- The Hunger Games #2
-- The Hobbit #2 Extended Edition
-- Star Wars - Complete set
-- E.T.
-- MIB Trilogy
-- Captain America #2
+- [The Amazing Spider Man #2](http://www.amazon.com/Amazing-Spider-Man-Blu-Ray-UltraViolet-Combo/dp/B00JPS6A3O/)
+- [The Hunger Games #2](http://www.amazon.com/Hunger-Games-Catching-Blu-ray-UltraViolet/dp/B008JFUS8M/)
+- [The Hobbit #2 Extended Edition](http://www.amazon.com/Hobbit-Desolation-Blu-ray-Richard-Armitage/dp/B00MG4RIXU/)
+- [Star Wars - Complete set](http://www.amazon.com/Star-Wars-Complete-Episodes-Blu-ray/dp/B003ZSJ212/)
+- [E.T.](http://www.amazon.com/E-T-Extra-Terrestrial-Anniversary-Blu-ray-UltraViolet/dp/B003UESJLK/)
+- [MIB Trilogy]()
+- [Captain America #2](http://www.amazon.com/Captain-America-Soldier-Blu-ray-Digital/dp/B00KHD5FK0/)
