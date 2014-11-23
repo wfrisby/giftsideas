@@ -1,6 +1,7 @@
 # Movies
 - [Guardians of the Galaxy](http://www.amazon.com/Guardians-Galaxy-3D-Blu-ray-DVD/dp/B00N1JQ2UO/)
 - [Lego Movie](http://www.amazon.com/LEGO-Movie-Blu-ray-UltraViolet-Combo/dp/B00I6JOBTI/)
+- [Dawn of the planet of the apes](http://www.amazon.com/Dawn-Planet-Apes-Blu-ray-Oldman/dp/B00MH8DU9Q)
 - [The Munsters complete series](http://www.amazon.com/Munsters-Complete-Fred-Gwynne/dp/B001DZOCZU/)
 - [Back to the future trilogy](http://www.amazon.com/gp/product/B0054OGQOQ/)
 - [Malificent](http://www.amazon.com/Maleficent-2-Disc-Blu-ray-DVD-Digital/dp/B00M4ADWTK/)
