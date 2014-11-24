@@ -3,6 +3,7 @@
 - [Lego Movie](http://www.amazon.com/LEGO-Movie-Blu-ray-UltraViolet-Combo/dp/B00I6JOBTI/)
 - [Dawn of the planet of the apes](http://www.amazon.com/Dawn-Planet-Apes-Blu-ray-Oldman/dp/B00MH8DU9Q)
 - [Short Circuit 1 and 2](http://www.amazon.com/Short-Circuit-Blu-ray/dp/B00DRQEU5A/)
+- [Coraline](http://www.amazon.com/Coraline-Collectors-Blu-ray-Combo-Pack/dp/B00288KNJU/)
 - [Apollo 13](http://www.amazon.com/Apollo-13-15th-Anniversary-Blu-ray/dp/B00371QQ2U/)
 - [The Munsters complete series](http://www.amazon.com/Munsters-Complete-Fred-Gwynne/dp/B001DZOCZU/)
 - [Back to the future trilogy](http://www.amazon.com/gp/product/B0054OGQOQ/)
