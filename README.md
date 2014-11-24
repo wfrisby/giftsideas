@@ -1,4 +1,7 @@
-giftsideas
-==========
+Some gift ideas
+===============
 
-A repo for me to keep track of things I want
+Categories:
+- [Embedded Hardware](Embedded Hardware.md)
+- [Movies](Movies.md)
+- [Books](Books.md)
