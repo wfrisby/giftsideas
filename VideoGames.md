@@ -9,3 +9,4 @@ Xbox 360 Video Games
 - [Call of Duty - Black Ops II + Maps](http://www.amazon.com/Call-Duty-Black-Revolution-Pack-Included/dp/B00CHGYUE2/)
 - [Far Cry 4](http://www.amazon.com/Far-Cry-4-Xbox-360/dp/B00KAED6RU/)
 - [Lego Avengers](http://www.amazon.com/Lego-Marvel-Super-Heroes-Xbox-360/dp/B00B98HF1O/)
+- [Lego Hobbit](http://www.amazon.com/LEGO-Hobbit-Xbox-360/dp/B00GY4OBB0/)
