@@ -1,5 +1,6 @@
 Xbox 360 Video Games
 ====================
+- [Diablo III - Ultimate Edition](http://www.amazon.com/Diablo-III-Ultimate-Evil-Edition-Xbox/dp/B00KAEIS6O/)
 - [Call of Duty - Advanced Warfare](http://www.amazon.com/dp/B00MU1YENG)
 - [Call of Duty - Modern Warfare + DLC](http://www.amazon.com/Call-Duty-Modern-Warfare-Collection-Xbox/dp/B008B3AVNE/)
 - [Destiny](http://www.amazon.com/Destiny-Xbox-360/dp/B002I096Q4/)
