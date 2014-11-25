@@ -5,7 +5,7 @@
 - [Short Circuit 1 and 2](http://www.amazon.com/Short-Circuit-Blu-ray/dp/B00DRQEU5A/)
 - [Coraline](http://www.amazon.com/Coraline-Collectors-Blu-ray-Combo-Pack/dp/B00288KNJU/)
 - [Apollo 13](http://www.amazon.com/Apollo-13-15th-Anniversary-Blu-ray/dp/B00371QQ2U/)
-- [The Munsters complete series](http://www.amazon.com/Munsters-Complete-Fred-Gwynne/dp/B001DZOCZU/)
+- ~~[The Munsters complete series](http://www.amazon.com/Munsters-Complete-Fred-Gwynne/dp/B001DZOCZU/)~~
 - [Back to the future trilogy](http://www.amazon.com/gp/product/B0054OGQOQ/)
 - [Malificent](http://www.amazon.com/Maleficent-2-Disc-Blu-ray-DVD-Digital/dp/B00M4ADWTK/)
 - [The Amazing Spider Man #2](http://www.amazon.com/Amazing-Spider-Man-Blu-Ray-UltraViolet-Combo/dp/B00JPS6A3O/)
