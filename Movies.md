@@ -4,13 +4,13 @@
 - ~~[Dawn of the planet of the apes](http://www.amazon.com/Dawn-Planet-Apes-Blu-ray-Oldman/dp/B00MH8DU9Q)~~
 - [Short Circuit 1 and 2](http://www.amazon.com/Short-Circuit-Blu-ray/dp/B00DRQEU5A/)
 - [Coraline](http://www.amazon.com/Coraline-Collectors-Blu-ray-Combo-Pack/dp/B00288KNJU/)
-- ~~[Apollo 13](http://www.amazon.com/Apollo-13-15th-Anniversary-Blu-ray/dp/B00371QQ2U/)
+- ~~[Apollo 13](http://www.amazon.com/Apollo-13-15th-Anniversary-Blu-ray/dp/B00371QQ2U/)~~
 - ~~[The Munsters complete series](http://www.amazon.com/Munsters-Complete-Fred-Gwynne/dp/B001DZOCZU/)~~
 - ~~[Back to the future trilogy](http://www.amazon.com/gp/product/B0054OGQOQ/)~~
 - [Malificent](http://www.amazon.com/Maleficent-2-Disc-Blu-ray-DVD-Digital/dp/B00M4ADWTK/)
 - ~~[The Amazing Spider Man #2](http://www.amazon.com/Amazing-Spider-Man-Blu-Ray-UltraViolet-Combo/dp/B00JPS6A3O/)~~
 - ~~[The Hunger Games #2](http://www.amazon.com/Hunger-Games-Catching-Blu-ray-UltraViolet/dp/B008JFUS8M/)~~
-- ~~[The Hobbit #2 Extended Edition](http://www.amazon.com/Hobbit-Desolation-Blu-ray-Richard-Armitage/dp/B00MG4RIXU/)
+- ~~[The Hobbit #2 Extended Edition](http://www.amazon.com/Hobbit-Desolation-Blu-ray-Richard-Armitage/dp/B00MG4RIXU/)~~
 - [Star Wars - Complete set](http://www.amazon.com/Star-Wars-Complete-Episodes-Blu-ray/dp/B003ZSJ212/)
 - [E.T.](http://www.amazon.com/E-T-Extra-Terrestrial-Anniversary-Blu-ray-UltraViolet/dp/B003UESJLK/)
 - ~~[MIB Trilogy]()~~
