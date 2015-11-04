@@ -1,6 +1,6 @@
 Xbox 360 Video Games
 ====================
-- [Diablo III - Ultimate Edition](http://www.amazon.com/Diablo-III-Ultimate-Evil-Edition-Xbox/dp/B00KAEIS6O/)
+- ~~[Diablo III - Ultimate Edition](http://www.amazon.com/Diablo-III-Ultimate-Evil-Edition-Xbox/dp/B00KAEIS6O/)~~
 - [Call of Duty - World at War](http://www.amazon.com/Call-Duty-World-Platinum-Hits-Xbox/dp/B001AWIP68/)
 - [Call of Duty - Ghosts](http://www.amazon.com/Call-Duty-Ghosts-Xbox-360/dp/B002I098JE/)
 - [Call of Duty - Advanced Warfare](http://www.amazon.com/dp/B00MU1YENG)
