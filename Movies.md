@@ -1,5 +1,6 @@
 # Movies
 - [Finding Dory](https://www.amazon.com/Finding-Dory-Combo-Digital-Blu-ray/dp/B01FJ4UGF0)
+- [Zootopia](https://www.amazon.com/Zootopia-Blu-ray-Ginnifer-Goodwin/dp/B01B2CX0LU)
 - [Secret Life of Pets](https://www.amazon.com/Secret-Life-Pets-Blu-ray-Digital/dp/B01I5JT9L8)
 - [Pete's Dragon](https://www.amazon.com/Petes-Dragon-DVD-Digital-Blu-ray/dp/B01I0RFN38)
 - [The BFG](https://www.amazon.com/BFG-BD-DVD-Digital-Blu-ray/dp/B01G4N5Q0A)
