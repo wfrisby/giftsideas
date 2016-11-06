@@ -1,6 +1,9 @@
 # Movies
+- [Finding Dory](https://www.amazon.com/Finding-Dory-Combo-Digital-Blu-ray/dp/B01FJ4UGF0)
+- [Secret Life of Pets](https://www.amazon.com/Secret-Life-Pets-Blu-ray-Digital/dp/B01I5JT9L8)
+- [Pete's Dragon](https://www.amazon.com/Petes-Dragon-DVD-Digital-Blu-ray/dp/B01I0RFN38)
 - [Guardians of the Galaxy](http://www.amazon.com/Guardians-Galaxy-3D-Blu-ray-DVD/dp/B00N1JQ2UO/)
-- [Lego Movie](http://www.amazon.com/LEGO-Movie-Blu-ray-UltraViolet-Combo/dp/B00I6JOBTI/)
+- ~~Lego Movie](http://www.amazon.com/LEGO-Movie-Blu-ray-UltraViolet-Combo/dp/B00I6JOBTI/)~~
 - ~~[Dawn of the planet of the apes](http://www.amazon.com/Dawn-Planet-Apes-Blu-ray-Oldman/dp/B00MH8DU9Q)~~
 - ~~[Short Circuit 1 and 2](http://www.amazon.com/Short-Circuit-Blu-ray/dp/B00DRQEU5A/)~~
 - [Coraline](http://www.amazon.com/Coraline-Collectors-Blu-ray-Combo-Pack/dp/B00288KNJU/)
