@@ -2,6 +2,7 @@
 - [Finding Dory](https://www.amazon.com/Finding-Dory-Combo-Digital-Blu-ray/dp/B01FJ4UGF0)
 - [Secret Life of Pets](https://www.amazon.com/Secret-Life-Pets-Blu-ray-Digital/dp/B01I5JT9L8)
 - [Pete's Dragon](https://www.amazon.com/Petes-Dragon-DVD-Digital-Blu-ray/dp/B01I0RFN38)
+- [The BFG](https://www.amazon.com/BFG-BD-DVD-Digital-Blu-ray/dp/B01G4N5Q0A)
 - [Guardians of the Galaxy](http://www.amazon.com/Guardians-Galaxy-3D-Blu-ray-DVD/dp/B00N1JQ2UO/)
 - [Star Wars - Complete set](http://www.amazon.com/Star-Wars-Complete-Episodes-Blu-ray/dp/B003ZSJ212/)
 - [E.T.](http://www.amazon.com/E-T-Extra-Terrestrial-Anniversary-Blu-ray-UltraViolet/dp/B003UESJLK/)
